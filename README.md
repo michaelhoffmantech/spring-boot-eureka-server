@@ -15,7 +15,7 @@ I used the following at http://start.spring.io to create the Eureka Server appli
 * Package Name = com.scmc.bootdemo.eureka
 * Packaging = JAR
 * Java Version = 1.8
-* Dependencies = Eureka Server
+* Dependencies = Eureka Server, Actuator
 
 # 2 - Eureka Server Updates
 
