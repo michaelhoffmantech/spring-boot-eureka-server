@@ -23,7 +23,9 @@ I used the following at http://start.spring.io to create the Eureka Server appli
 
 Next in the class BootDemoEurekaServerApplication, I needed to add the following annotation to the class:
 
+```
 @EnableEurekaServer
+```
 
 This enables a registry that other applications can talk to.
 
